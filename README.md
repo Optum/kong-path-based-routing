@@ -40,5 +40,4 @@ $ luarocks make *.rockspec
 The plugin requires that regex's/constants be concatinated in the parameter "host_fields" to inform the upstream hostname.
 Strings given in the array begining with "$" will be treated as REGEX' to be applied to the URI path.
 
-
-###Feel free to open issues, or refer to our Contribution Guidelines if you have any questions.
+Feel free to open issues, or refer to our Contribution Guidelines if you have any questions.
