@@ -1,0 +1,25 @@
+Kong Path-Based Routing
+Copyright 2018 Optum
+
+Project Description:
+====================
+
+The Kong Path-Based Routing Plugin is a small, lua-based, Openrestly module which allows for setting the Upstream Hostname of a proxy request to a dynamic value, based on the URI parameters. This plugin is required for API Gateways to integrate with certain deployment patterns, such as the one we see with myUHC. It can be a little niche, but we value the community feedback on our design, and believe that others could benefit from our work.
+
+
+
+Authors:
+Ross Sbriscia, Jeremy Justus ©Optum 2018
+
+
+Added Files:
+============
+
+
+
+
+
+
+
+Modified Files:
+===============
