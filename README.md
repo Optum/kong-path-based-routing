@@ -42,3 +42,5 @@ Strings given in the array begining with "$" will be treated as REGEX' to be app
 
 
 Feel free to open issues, or refer to our Contribution Guidelines if you have any questions.
+=======
+# kong-path-based-routing
