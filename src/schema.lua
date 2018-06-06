@@ -1,5 +1,5 @@
 return {
   fields = {
-    replacement_url = { required = true, type = "string" }
+    host_fields = { required = true, type = "array" }
   }
 }
