@@ -11,7 +11,7 @@ function _M.execute(conf)
   end
   ngx.req.set_header("host", host)
   ngx.var.upstream_host = host
-  ngx.ctx.balancer_address.host = host
+  ngx.ctx.balancer_data.host = host
 end
 
 return _M
