@@ -21,7 +21,7 @@ myapp10-apitest.com/service/myapp/v1.0
 The host given in the Service will not be used if this plugin is applied.
 
 ## Supported Kong Releases
-Kong >= 0.13.x 
+Kong >= 1.x 
 
 ## Installation
 Recommended:
