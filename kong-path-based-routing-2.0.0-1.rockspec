@@ -1,5 +1,5 @@
 package = "kong-path-based-routing"
-version = "0.2-3"
+version = "2.0.0-1"
 source = {
    url = "git+https://github.com/Optum/kong-path-based-routing.git"
 }
